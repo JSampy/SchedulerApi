@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      username: scheduler-api-user
+      password: scheduler-api-user
+      database: scheduler-db
+      port: 27017
